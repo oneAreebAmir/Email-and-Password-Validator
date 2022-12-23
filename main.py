@@ -2,6 +2,10 @@
 Created by Areeb Amir
 Date : 21/06/2022
 Created a program where email and password are taken as two inputs and process them in such algorithm that both is valid and correct and give output correction if there is something wrong. Its contain tkinter which is graphical user interface GUI for window. 
+
+Follow me 
+https://www.github.com/oneAreebAmir
+https://www.youtube.com/AreebAmir
 """
 
 from tkinter import *
